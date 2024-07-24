@@ -1,8 +1,4 @@
 // index.js
-
-
-
-
 // Callbacks
 const handleClick = (ramen) => {
   // Add code
@@ -91,3 +87,4 @@ export {
   handleClick,
   main,
 };
+
